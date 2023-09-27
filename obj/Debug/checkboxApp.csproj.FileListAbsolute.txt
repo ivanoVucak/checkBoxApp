@@ -1,0 +1,6 @@
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\checkboxApp\obj\Debug\checkboxApp.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\checkboxApp\obj\Debug\checkboxApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\checkboxApp\obj\Debug\checkboxApp.naslov.resources
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\checkboxApp\obj\Debug\checkboxApp.Properties.Resources.resources
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\checkboxApp\obj\Debug\checkboxApp.csproj.GenerateResource.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\checkboxApp\obj\Debug\checkboxApp.csproj.CoreCompileInputs.cache
